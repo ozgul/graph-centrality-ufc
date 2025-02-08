@@ -1,3 +1,4 @@
+// completed exercise from the coursera course https://www.coursera.org/learn/data-engineering-rust
 // use petgraph::algo::betweenness_centrality;
 use petgraph::graph::{NodeIndex, UnGraph};
 use petgraph::Direction;
